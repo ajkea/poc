@@ -1,0 +1,1 @@
+sudo ~/Documents/hub-ctrl.c/hub-ctrl -h 0 -P 1 -p 0
