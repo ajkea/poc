@@ -1,5 +1,3 @@
-# poc
-
 # Proof of concept: cool sleep buddy
 
 ## Concept:
